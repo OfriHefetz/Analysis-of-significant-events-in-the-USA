@@ -14,7 +14,8 @@ This repository contains our final project in the course "Psychological and Cogn
 
 
 ## Data
-Our data is based on Harvard Dataverse which scrapped the transcript on CNN broadcast available online between the years of 2000-2022.
+Harvard Dataverse which scrapped the transcript on CNN broadcast available online between the years of 2000-2022.
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ISDPJU 
 
 ## Our project 
 We focused on the news broadcast around major events in the US to examine the different shifts that the news takes during and after these 
