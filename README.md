@@ -7,7 +7,7 @@ Authors: Ofri Hefetz, Shai Shani Bar and Gony Idan
 This repository contains our final project in the course "Psychological and Cognitive Networks" taught at Technion University.
 
 
-## Project parts:
+## Project parts
 1. Gathering information & general description of the continuation of the project
 2. Setting up network analysis & visualization
 3. construction of the networks,  analysis, & conclusions
