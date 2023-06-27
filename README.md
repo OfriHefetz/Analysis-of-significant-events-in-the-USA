@@ -17,6 +17,10 @@ This repository contains our final project in the course "Psychological and Cogn
 Harvard Dataverse which scrapped the transcript on CNN broadcast available online between the years of 2000-2022.
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ISDPJU 
 
+To access all relevent data file for the project please follow the link:
+https://drive.google.com/file/d/1ZzV9slyC7wT0qpbin6ZbdAvsyZxbZ57q/view?usp=sharing
+
+
 ## Our project 
 We focused on the news broadcast around major events in the US to examine the different shifts that the news takes during and after these 
 events that shape and impact the nation. We will examine the main topics discussed in news broadcasts by analyzing the words spoken in each broadcast.
