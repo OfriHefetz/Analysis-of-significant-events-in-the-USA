@@ -18,8 +18,7 @@ Harvard Dataverse which scrapped the transcript on CNN broadcast available onlin
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ISDPJU 
 
 To access all relevent data file for the project please follow the link:
-https://drive.google.com/file/d/1z8HmUJ9u33bQxv121lRLogOuMQRvTkhy/view?usp=sharing
-
+https://drive.google.com/file/d/1p87SUVNX7qobgMk9AzD4OFN41xDdGc3j/view?usp=sharing
 
 ## Our project 
 We focused on the news broadcast around major events in the US to examine the different shifts that the news takes during and after these 
