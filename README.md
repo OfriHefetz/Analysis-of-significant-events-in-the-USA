@@ -32,4 +32,8 @@ We chose five major events between those years to examine and analyze:
 5. Bombing at Boston Marathon at April 15, 2013 
 
 
+## Visualization
+In our project we provide a simple and convinent way to represent all the graphs and metrics generated in the different parts. By running the file 'create_dash.py' you would generate and interactive dashboard that should be open on Chrome browser. This dashboard will allow you to examine the different graphs for the events through out time, examine the different degree centrality of the nodes and the communities genearted for each day. Make sure before running the code you save the needed data files, data_git/graphs, data_git/centrality and data_git/nodes, in the relevent location and update code accordingly. 
+
+Enjoy!
 
